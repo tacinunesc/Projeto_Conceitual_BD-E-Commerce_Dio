@@ -1,4 +1,4 @@
-# Projeto_Conceitual_BD-E-Commerce_Dio
+# Projeto Conceitual de Banco de Dados E-Commerce, Desenvolvido pelo Bootcamp da Dio
 
 ## Descricao Modelo Ordem de Servico
 
